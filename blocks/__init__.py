@@ -1,0 +1,1 @@
+print('I am __init__ of blocks.py')
